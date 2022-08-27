@@ -12,7 +12,6 @@ import './styles/index.less'
 import 'amfe-flexible'
 // 注册vant
 Vue.use(Vant)
-
 Vue.config.productionTip = false
 
 new Vue({
